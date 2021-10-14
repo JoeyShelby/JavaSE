@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ThreadExercise",
+            "request": "launch",
+            "mainClass": "ThreadExercise",
+            "projectName": "JavaSE_e18ebd76"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadTest",
+            "request": "launch",
+            "mainClass": "ThreadTest",
+            "projectName": "JavaSE_e18ebd76"
+        },
+        {
+            "type": "java",
             "name": "Debug(launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
